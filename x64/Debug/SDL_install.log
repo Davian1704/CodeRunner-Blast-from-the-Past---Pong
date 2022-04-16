@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(12,11): warning C4273: 'rand': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : see previous definition of 'rand'
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(111,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(116,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(118,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(136,52): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davian\Downloads\CodeRun-SDL2Base\main.cpp(142,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SDL_install.vcxproj -> C:\Users\Davian\source\repos\SDL_install\x64\Debug\SDL_install.exe
